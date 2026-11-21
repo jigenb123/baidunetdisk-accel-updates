@@ -1,0 +1,11 @@
+{
+  "version": "1.2.2",
+  "date": "2026-11-21",
+  "asset_name": "BaiduPanAccelerator_v1.2.2.exe",
+  "download_url": "https://github.com/jigenb123/baidunetdisk-accel-updates/releases/latest/download/BaiduPanAccelerator_v1.2.2.exe",
+  "page_url": "https://github.com/jigenb123/baidunetdisk-accel-updates/releases",
+  "size": 10672353,
+  "sha256": "1687f8c67ed3b278a5082998af6596a0c59a002073742c1658d972bd3365f9da",
+  "mandatory": false,
+  "changelog": "v1.2.2 更新内容：\n\n1. 【新增】GitHub 自动更新：启动时检查新版本，一键下载、校验、自动替换并重启\n2. 【新增】设置与关于页加入「检查更新」，支持国内镜像加速与 sha256 校验\n3. 【调整】关于页改版：新增红色免责声明（含 24 小时删除声明）与作者 B 站入口\n4. 【优化】移除设置页「加速行为」卡片与状态栏冗余提示"
+}
