@@ -1,11 +1,11 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "date": "2026-11-21",
-  "asset_name": "BaiduPanAccelerator_v1.2.4.exe",
-  "download_url": "https://github.com/jigenb123/baidunetdisk-accel-updates/releases/latest/download/BaiduPanAccelerator_v1.2.4.exe",
+  "asset_name": "BaiduPanAccelerator_v1.2.5.exe",
+  "download_url": "https://github.com/jigenb123/baidunetdisk-accel-updates/releases/latest/download/BaiduPanAccelerator_v1.2.5.exe",
   "page_url": "https://github.com/jigenb123/baidunetdisk-accel-updates/releases",
-  "size": 10672120,
-  "sha256": "d8e9d65fce799de25e5cfadbdcaa8ede6b846e42d4bc4d90317780905c353d39",
+  "size": 10677377,
+  "sha256": "b991fd1f0828c6781e404004359f0970243f6090bb10c88f5cb7a797bb51e124",
   "mandatory": false,
-  "changelog": "v1.2.4 更新内容：\n\n测试\n111\n测试ksjjd\n、"
+  "changelog": "v1.2.5 更新内容：\n\n1. 下载改为并行测速所有镜像、自动选最快线路，并启用 6 线程分段下载（不再直连 GitHub）\n2. 改为强制更新：移除「稍后提醒」与取消按钮，自动更新无法关闭\n3. 修复设置页说明文字末尾标点单独换行的问题\n4. 修复部分 Win11 环境下深色模式标题栏文字看不清的问题"
 }
